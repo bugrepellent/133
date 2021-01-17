@@ -8,6 +8,7 @@ To run the game:
 3. ./p.exe or ./p
 
 **Main Menu**
+
 Select one of the following options:
 1. load <<filename>>
 2. check
