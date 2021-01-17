@@ -10,7 +10,7 @@ To run the game:
 **Main Menu**
 
 Select one of the following options:
-1. load <<filename>>
+1. load <\<filename>\>
 2. check
 3. solve
 4. quit
